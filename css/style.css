@@ -22,6 +22,6 @@ body {
         transform: translateY(0);
     }
     50% {
-        transform: translateY(90%);
+        transform: translateY(calc(98vh - 50vh));
     }
 }
